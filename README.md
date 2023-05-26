@@ -18,7 +18,7 @@ By translating these insights into practical recommendations, the new Microsoft 
 # Objectives
 The objectives are to analyze the data obtained from Box Office, create visualizations and to make recommendations on impactful strategies that should be implemented.
 
-##Data Understanding
+# Data Understanding
 The data acqired for this analysis was extracted from:
 
 movie_basics
